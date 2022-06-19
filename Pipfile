@@ -9,7 +9,6 @@ pandas = "*"
 fastapi = "*"
 uvicorn = "*"
 gunicorn = "19.9.0"
-tensorflow = "2.9.1"
 tensorflow-hub = "0.12.0"
 
 [dev-packages]

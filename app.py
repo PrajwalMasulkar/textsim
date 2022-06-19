@@ -7,7 +7,6 @@ import tensorflow as tf
 import tensorflow_hub as hub
 from numpy import dot                                         
 from numpy.linalg import norm
-import scipy.linalg  
 from fastapi import FastAPI
 from pydantic import BaseModel
                          

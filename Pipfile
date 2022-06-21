@@ -12,6 +12,7 @@ gunicorn = "19.9.0"
 tensorflow-cpu= "2.7.0"
 
 
+
 [dev-packages]
 
 [requires]

@@ -3,4 +3,5 @@ pandas
 fastapi
 uvicorn
 gunicorn==19.9.0
+tensorflow-cpu
 tensorflow-hub
